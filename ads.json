@@ -1,1 +1,18 @@
-{}
+{
+    "userpassmfa": {
+        "projectName": "userpassmfa",
+        "description": "try agama projects ",
+        "type": "community",
+        "author": "suvarnasa",
+        "version": "0.0.1",
+        "authorWebsite": "https://github.com/suvarnasa/agama",
+        "githubUri": "https://github.com/suvarnasa/agama",
+        "license": "MIT",
+        "lastUpdated": "1696870520440",
+        "tags": [
+            "openid-connect",
+            "authentication"
+        ],
+        "noDirectLaunch": []
+    }
+}
